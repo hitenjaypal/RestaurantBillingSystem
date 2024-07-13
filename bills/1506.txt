@@ -1,0 +1,22 @@
+	Welcome To Silver Heights Restaurant
+
+ Bill Number : 1506
+ Customer name : hardik
+ Phone Number : 5555555555
+ Table Number : 5
+ Time : Thu Jun 27 11:59:23 2024
+ GST Number : 22AAAA0000A1Z5
+======================================================
+ Products			QTY			Price 
+======================================================
+ Samosa			1		 Rs.40
+ Burger			3		 Rs.150
+ Biryani			1		 Rs.200
+------------------------------------------------
+ GST : 			 Rs. 9.75
+ Item Total : 			 Rs. 390.0
+-------------------------------------------
+ Total Bill : 			 Rs. 399.75
+-------------------------------------------
+-----------Thank You For Visiting----------
+-------------------------------------------

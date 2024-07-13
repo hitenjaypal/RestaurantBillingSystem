@@ -1,0 +1,23 @@
+	Welcome To Silver Heights Restaurant
+
+ Bill Number : 9671
+ Customer name : rish
+ Phone Number : 8401584225
+ Table Number : 8
+ Time : Tue Jun 25 19:08:37 2024
+ GST Number : 22AAAA0000A1Z5
+======================================================
+ Products			QTY			Price 
+======================================================
+ Samosa			1		 Rs.40
+ Idli			4		 Rs.200
+ Fries			1		 Rs.90
+ Drinks			5		 Rs.100
+------------------------------------------------
+ GST : 			 Rs. 10.75
+ Item Total : 			 Rs. 430.0
+-------------------------------------------
+ Total Bill : 			 Rs. 440.75
+-------------------------------------------
+-----------Thank You For Visiting----------
+-------------------------------------------

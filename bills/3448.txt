@@ -1,0 +1,23 @@
+	Welcome To Silver Heights Restaurant
+
+ Bill Number : 3448
+ Customer name : Hiten
+ Phone Number : 8401584225
+ Table Number : 11
+ Time : Tue Jun 25 18:50:45 2024
+ GST Number : 22AAAA0000A1Z5
+======================================================
+ Products			QTY			Price 
+======================================================
+ Samosa			1		 Rs.40
+ SSPSandwich			5		 Rs.600
+ SSPNoodles			0		 Rs.1520
+ Lassi			5		 Rs.300
+------------------------------------------------
+ GST : 			 Rs. 61.5
+ Item Total : 			 Rs. 2460.0
+-------------------------------------------
+ Total Bill : 			 Rs. 2521.5
+-------------------------------------------
+-----------Thank You For Visiting----------
+-------------------------------------------

@@ -1,0 +1,22 @@
+	Welcome To Silver Heights Restaurant
+
+ Bill Number : 6807
+ Customer name : haRDIK
+ Phone Number : 1233446780
+ Table Number : 4
+ Time : Sat Apr 27 22:11:35 2024
+ GST Number : 22AAAA0000A1Z5
+======================================================
+ Products			QTY			Price 
+======================================================
+ Idli			5		 Rs.250
+ SSPSandwich			2		 Rs.240
+ Coffee			1		 Rs.0
+------------------------------------------------
+ GST : 			 Rs. 12.25
+ Item Total : 			 Rs. 490.0
+-------------------------------------------
+ Total Bill : 			 Rs. 502.25
+-------------------------------------------
+-----------Thank You For Visiting----------
+-------------------------------------------

@@ -1,0 +1,11 @@
+	Welcome To Silver Heights Restaurant
+
+ Bill Number : 4098
+ Customer name : hardik
+ Phone Number : 1232457744
+ Table Number : 4
+ Time : Sat Apr 27 22:07:52 2024
+ GST Number : 22AAAA0000A1Z5
+======================================================
+ Products			QTY			Price 
+======================================================
